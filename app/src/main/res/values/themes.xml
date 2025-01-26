@@ -2,4 +2,19 @@
 <resources>
 
     <style name="Theme.FireCalculator" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="CustomOutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="boxStrokeColor">@android:color/transparent</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+    </style>
+
+    <style name="CounterStyle" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/black</item>
+        <!--other parameters that you want to change -->
+    </style>
+    <style name="CustomOutlinedBox_Focused" parent="CustomOutlinedBox">
+        <item name="boxStrokeWidth">0dp</item>
+    </style>
 </resources>

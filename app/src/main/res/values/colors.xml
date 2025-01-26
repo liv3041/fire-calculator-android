@@ -11,4 +11,17 @@
     <color name="Amaranth">#EE4266</color>
     <color name="BrightSun">#FFD23F</color>
     <color name="Amazon">#337357</color>
+    <color name="transparent80">#80000000</color>
+    <color name="transparent100">#00ff0000</color>
+    <color name="transparent_90">#97000000</color>
+    <color name="granite_gray">#686868</color>
+    <color name="whisper_gray">#EEEEEE</color>
+    <color name="light_grey">#F9F9F9</color>
+    <color name="very_light_grey">#EBEBEB</color>
+    <color name="light_gray">#F2F2F2</color>
+    <color name="grayish">#C7C8CC</color>
+    <color name="shimmerColor">#C2C2C2</color>
+
+    <color name="cursorColor">#525252</color>
+    <color name="textColor">#FF000000</color>
 </resources>
